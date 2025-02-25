@@ -6,6 +6,6 @@
   - Naina Balepur (name data processing and demographic bias corrections)
   - Ziqi Wang (tweet sentiment analysis and user labeling)
   - Jiawei Tang (website and bot detection)
-  - Michael Wieck-Sosa (Twitter data collection for each state, political bias corrections, state & national popular vote predictions, and formatting data for website)
+  - Michael Wieck-Sosa (Twitter data collection and vote predictions)
 # Acknowledgements
 - We would like to thank Professor Kevin Chen-Chuan Chang and Hongtai Cao for their guidance
